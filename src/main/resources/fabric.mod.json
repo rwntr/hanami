@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "hanami",
 	"version": "${version}",
-	"name": "hanami",
+	"name": "hanami_TEST",
 	"description": "",
 	"authors": [
 		"nya",
@@ -10,7 +10,7 @@
 	],
 	"contact": {
 		"homepage": "https://pwn.fish",
-		"sources": "https://github.com/pwnfish/hanami"
+		"sources": "https://github.com/rwntr/hanami"
 	},
 	"license": "AGPL-3.0-or-later",
 	"icon": "assets/hanami/icon.png",
